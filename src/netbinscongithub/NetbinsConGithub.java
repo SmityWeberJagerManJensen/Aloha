@@ -14,6 +14,8 @@ public class NetbinsConGithub {
     public static void main(String[] args) {
        double porQueVectores[] = new double[10];
        String queCuel[] = new String[60];
+       
+       /* alahu akbaar motherfucker */
     }
     
 }
